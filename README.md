@@ -6,7 +6,7 @@
 The aim of this study is to analyze and visualize job applications from the southern region of the United Kingdom. the analysis will cover topics such as position distribution, gender distribution, role distribution, experience levels and desired salary distribution. it is aimed to create an idea about the location of the new office to be opened.
 
 ## Project Steps
-#### [See Script](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/report_pdf.pdf)
+#### [See Script](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/script.py)
 
 + **Data Extraction**: Necessary data was extracted from the database.
 
