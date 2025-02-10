@@ -12,6 +12,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id risus hendrerit 
 
 ##  Steps
 
+![image](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/diag.png)
+
 #### [See Script](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/script.py)
 
 + **Data Extraction**: Necessary data was extracted from the database.
