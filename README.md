@@ -1,5 +1,6 @@
+![image](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/Bar-Temp.svg)
 
-# UK Application analysis
+<div align="center"> <h1>UK Application analysis</h1> </p> </div>
 
 ## Project Introduction
 
