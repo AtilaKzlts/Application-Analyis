@@ -7,7 +7,7 @@ The aim of this study is to analyze and visualize job applications from the sout
 
 ## Executive summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id risus hendrerit nisl viverra luctus. Curabitur ac laoreet lacus. Donec porta congue ultricies. Pellentesque at purus imperdiet ex pretium rhoncus et eu enim. Proin felis justo, viverra eget dictum id, congue sed nunc. Vestibulum mattis magna bibendum ante posuere imperdiet. Aenean commodo commodo nisi, ac tempor libero laoreet non. Aliquam ac mi non diam luctus elementum et dapibus ante. Donec facilisis vestibulum leo, quis egestas magna. Integer mollis sit amet ligula vitae auctor. Donec viverra tempor velit, pulvinar commodo nisl efficitur quis. Cras vehicula mollis enim, id consectetur est cursus vel. Phasellus vitae volutpat enim.
+When the 3,270 job applications from the South of England are analyzed, it is seen that the highest number of applications was made from the Greater London region with 971. 53% of the applicants were male (1,719 applicants) and 47% were female (1,551 applicants). Among the most applied positions, Laborer with 287 applications, Technician with 203 applications and Operator with 179 applications stand out. In specific roles, the highest number of applicants was for the position of Unskilled Laborer with 224 applicants. Candidates' experience ranges between 0-45 years, with the highest number of applicants having 5-10 years of experience. In terms of salary expectations, the most requested range is 55,000-70,000, followed by 70,000-85,000 and 45,000-55,000. The analysis shows that London and the surrounding areas dominate the applications, with a large proportion of candidates having medium experience.
 
 
 ##  Steps
