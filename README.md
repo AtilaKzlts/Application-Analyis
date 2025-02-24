@@ -32,3 +32,5 @@ When the 3,270 job applications from the South of England are analyzed, it is se
 
 
 ![image](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/report.png)
+
+### [**Return to Portfolio**](https://github.com/AtilaKzlts/Atilla-Portfolio)
