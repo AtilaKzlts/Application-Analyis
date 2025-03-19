@@ -2,35 +2,61 @@
 
 <div align="center"> <h1>UK Application analysis</h1> </p> </div>
 
-## Project Introduction
+## Project Introduction 
 
-The aim of this study is to analyze and visualize job applications from the southern region of the United Kingdom. the analysis will cover topics such as position distribution, gender distribution, role distribution, experience levels and desired salary distribution. it is aimed to create an idea about the location of the new office to be opened.
+This study aims to analyze and visualize job applications from the southern region of the United Kingdom. The analysis covers key aspects such as position distribution, gender distribution, role distribution, experience levels, and desired salary ranges. The ultimate goal is to provide insights into the optimal location for a new office.  
 
-## Executive summary
+## Executive Summary
 
-When the 3,270 job applications from the South of England are analyzed, it is seen that the highest number of applications was made from the Greater London region with 971. 53% of the applicants were male (1,719 applicants) and 47% were female (1,551 applicants). Among the most applied positions, Laborer with 287 applications, Technician with 203 applications and Operator with 179 applications stand out. In specific roles, the highest number of applicants was for the position of Unskilled Laborer with 224 applicants. Candidates' experience ranges between 0-45 years, with the highest number of applicants having 5-10 years of experience. In terms of salary expectations, the most requested range is 55,000-70,000, followed by 70,000-85,000 and 45,000-55,000. The analysis shows that London and the surrounding areas dominate the applications, with a large proportion of candidates having medium experience.
+An analysis of 3,270 job applications from the South of England reveals that the highest number of applications came from the Greater London region, totaling 971. The applicant pool consists of 53% male (1,719 applicants) and 47% female (1,551 applicants).  
+
+The most frequently applied positions include:  
+- **Laborer** – 287 applications  
+- **Technician** – 203 applications  
+- **Operator** – 179 applications  
+
+Among specific roles, the **Unskilled Laborer** position received the highest number of applications (224). Candidates' experience levels range from 0 to 45 years, with the largest group having **5-10 years** of experience.  
+
+Regarding salary expectations, the most commonly requested salary ranges are:  
+
+1. **£55,000 - £70,000**  
+2. **£70,000 - £85,000**  
+3. **£45,000 - £55,000**  
+
+The findings indicate that London and its surrounding areas dominate the applications, with a significant proportion of candidates having **medium-level experience**.  
+
+## Steps  
+
+![image](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/diag.png)  
+
+#### [View Script](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/script.py)  
 
 
-##  Steps
+1. **Data Extraction**  
+   Data was retrieved from a PostgreSQL database to initiate the analysis. The necessary job application data was extracted to form the foundation of the study.
 
-![image](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/diag.png)
-
-#### [See Script](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/script.py)
-
-+ **Data Extraction**: Necessary data was extracted from the database.
-
-+ **Data Editing and Cleaning**: Editing and cleaning operations were performed on the data using PySpark on Google Colab.
-
-+ **Text Summarization and Trend Identification**: Using language models, text summaries in the applications were created and trends were identified.
-
-+ **Visualization**:  Clean data was transferred to Tableau to create reports and dashboards.
+2. **Data Cleaning & Processing**  
+   PySpark on Google Colab was used to clean and process the data. Key steps included:  
+   - **Summarizing applicant self-descriptions** and extracting **three key keywords** from each applicant's summary to identify key themes.  
+   - **Summarizing past job experiences** into three relevant keywords to streamline the job history data and highlight important experiences.  
+   - **Categorizing previous industries** based on predefined groups to standardize industry information and improve consistency in the analysis.  
+   - **Column Cleaning**: Unnecessary and empty columns were removed, and rows with invalid data were dropped. Additionally, text content was cleaned by removing special characters, extra spaces, and unnecessary symbols.  
+   - **Handling Missing Data**: Null values were checked across all columns, and missing data was either appropriately filled or rows were deleted. After cleaning, missing values were filled with "Unknown."  
 
 
+3. **Text Summarization & Trend Analysis**  
+   Language models were utilized to summarize text fields such as job and personal summaries. These summaries helped in identifying recurring trends across the applicants’ backgrounds and qualifications.
 
-## Analysis Output   
-#### [See PDF](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/report_pdf.pdf)
+4. **Visualization**  
+   Cleaned data was imported into **Tableau** for advanced visualizations, creating dashboards and reports that provide insights into applicant demographics, job roles, experience levels, and salary expectations.
 
 
-![image](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/report.png)
+## **Analysis Output**  
 
-### [**Return to Portfolio**](https://github.com/AtilaKzlts/Atilla-Portfolio)
+#### [View Full Report (PDF)](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/report_pdf.pdf)  
+
+![Dashboard Preview](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/report.png)  
+
+### [**Return to Portfolio**](https://github.com/AtilaKzlts/Atilla-Portfolio)  
+
+---
