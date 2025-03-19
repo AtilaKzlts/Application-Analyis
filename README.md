@@ -2,6 +2,13 @@
 
 <div align="center"> <h1>UK Application analysis</h1> </p> </div>
 
+## Table of Contents
+
+  - Project Introduction
+  - Executive Summary
+  - Steps
+  - Analysis Output
+
 ## Project Introduction 
 
 This study aims to analyze and visualize job applications from the southern region of the United Kingdom. The analysis covers key aspects such as position distribution, gender distribution, role distribution, experience levels, and desired salary ranges. The ultimate goal is to provide insights into the optimal location for a new office.  
