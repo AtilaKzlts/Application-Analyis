@@ -11,26 +11,18 @@
 
 ## Project Introduction 
 
-This study aims to analyze and visualize job applications from the southern region of the United Kingdom. The analysis covers key aspects such as position distribution, gender distribution, role distribution, experience levels, and desired salary ranges. The ultimate goal is to provide insights into the optimal location for a new office.  
+Selecting the optimal location for a new regional office in the South of England is far more than a geographic exercise; it is a strategic decision that demands a granular understanding of the local talent ecosystem. By deconstructing 3,270 job applications, this analysis synthesizes labor density, mid-level expertise availability, and compensation benchmarks. This mapping provides a data-driven roadmap to identify a location that balances high talent accessibility with long-term financial and operational sustainability.
 
 ## Executive Summary
 
-An analysis of 3,270 job applications from the South of England reveals that the highest number of applications came from the Greater London region, totaling 971. The applicant pool consists of 53% male (1,719 applicants) and 47% female (1,551 applicants).  
-
-The most frequently applied positions include:  
-- **Laborer** – 287 applications  
-- **Technician** – 203 applications  
-- **Operator** – 179 applications  
-
-Among specific roles, the **Unskilled Laborer** position received the highest number of applications (224). Candidates' experience levels range from 0 to 45 years, with the largest group having **5-10 years** of experience.  
-
-Regarding salary expectations, the most commonly requested salary ranges are:  
-
-1. **£55,000 - £70,000**  
-2. **£70,000 - £85,000**  
-3. **£45,000 - £55,000**  
-
-The findings indicate that London and its surrounding areas dominate the applications, with a significant proportion of candidates having **medium-level experience**.  
+| **Stage / Area** | **Insight (Key Finding)** | **Recommended Action / Business Impact** |
+| :--- | :--- | :--- |
+| **Regional Dominance** | **Greater London** is the core talent hub with **971 applications** (~30%). London and its surrounding areas significantly dominate the candidate pool. | **Location Strategy:** Prioritize sites within the Greater London periphery to maximize reach. High concentration suggests a "Headquarters" model is viable here. |
+| **Talent Density (Roles)** | **Laborer (287)**, **Technician (203)**, and **Operator (179)** are top roles. **Unskilled Laborer (224)** is the single highest specific role. | **Site Functionality:** The pool is skewed towards operational and technical roles. The new office should be optimized for technical operations and field management. |
+| **Experience Sweet Spot** | Applicants range from 0-45 years, but the largest group is **5-10 years experience** (Mid-level). | **Recruitment Focus:** The region is ideal for hiring experienced mid-career professionals. Training programs for junior staff are less critical than leadership development. |
+| **Compensation Reality** | Primary salary expectations are high: **£55k-£70k** (Rank 1) and **£70k-£85k** (Rank 2). | **Financial Feasibility:** Competitive benchmarking is mandatory. Budget for the new office must account for high cost-of-living adjustments inherent to the South. |
+| **Demographic Balance** | Strong gender parity for a technical/labor pool: **53% Male (1,719)** and **47% Female (1,551)**. | **Corporate Social Responsibility:** High potential for building a diverse workforce. Leverage this balance to meet ESG goals and improve employer branding. |
+| **Final Conclusion** | Market is dominated by **mid-level candidates** with **high salary expectations** primarily located in **London**. | **Decision Support:** A location in the **Greater London area** is optimal for talent access, provided the business model can support premium labor costs. |
 
 ## Steps  
 
