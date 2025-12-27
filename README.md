@@ -1,6 +1,8 @@
-![image](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/Bar-Temp.svg)
+
 
 <div align="center"> <h1>Strategic Site Selection</h1> </p> </div>
+
+![image](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/diag.png)  
 
 ## Table of Contents
 
@@ -26,7 +28,7 @@ Selecting the optimal location for a new regional office in the South of England
 
 ## Steps  
 
-![image](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/diag.png)  
+
 
 #### [View Script](https://github.com/AtilaKzlts/Application-Analyis/blob/main/assets/script.py)  
 
